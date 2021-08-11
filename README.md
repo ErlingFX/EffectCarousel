@@ -1,4 +1,1 @@
 # EffectCarousel
-# EffectCarousel
-# EffectCarousel
-# EffectCarousel
